@@ -14,3 +14,8 @@ pip install Matplotlib
 Seaborn version 0.12.2
 pip install Seaborn
 
+xlrd version 2.0.1
+pip install xlrd
+
+pandas-profiling version 3.6.6
+pip install pandas-profiling
